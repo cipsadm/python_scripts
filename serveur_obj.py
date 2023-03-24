@@ -1,4 +1,4 @@
-# Auteur: Sébastien Merrant email:sebastien.merrant@orange.fr
+# Auteur: Sébastien Merrant email: sebastien.merrant@orange.fr
 # Suivant l'environnement à selectionner PROD, PPROD,DEV,TEST etc.. 
 # Charge le bon serveur Admin avec une connection SSH avec le user ssh associé
 
